@@ -8,7 +8,7 @@ This repository is a **superproject**. Each technology lives in its own independ
 
 | Folder     | Technology    | Owner |
 |------------|---------------|-------|
-| `CUDA/`    | CUDA          | Christian |
+| `CUDA/`    | CUDA          | Christian Micea |
 | `OpenMP/`  | OpenMP        | TBD   |
 | `MPI/`     | MPI           | TBD   |
 | `Pthreads/`| POSIX threads | TBD   |
