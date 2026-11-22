@@ -4,3 +4,6 @@
 [submodule "MPI"]
 	path = MPI
 	url = https://github.com/Saltspeddy/PDA-upt-sem5-MPI
+[submodule "OpenMP"]
+	path = OpenMP
+	url = https://github.com/miriamfilip/PDA-upt-sem5-OpenMP
