@@ -10,7 +10,7 @@ This repository is a **superproject**. Each technology lives in its own independ
 |------------|---------------|-------|
 | `CUDA/`    | CUDA          | Christian Micea |
 | `OpenMP/`  | OpenMP        | Miriam Filip    |
-| `MPI/`     | MPI           | TBD   |
+| `MPI/`     | MPI           | Dragos Matu     |
 | `Pthreads/`| POSIX threads | TBD   |
 
 A submodule is just a pointer: the superproject records which commit of each submodule repo to check out. The actual work lives in the submodule repos and is pushed/pulled independently.
