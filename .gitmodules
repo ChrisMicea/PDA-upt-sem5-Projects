@@ -1,3 +1,6 @@
 [submodule "CUDA"]
 	path = CUDA
 	url = https://github.com/ChrisMicea/PDA-upt-sem5-CUDA
+[submodule "MPI"]
+	path = MPI
+	url = https://github.com/Saltspeddy/PDA-upt-sem5-MPI
